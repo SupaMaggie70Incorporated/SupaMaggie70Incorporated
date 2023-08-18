@@ -5,3 +5,5 @@ I do some C# stuff, occasionally html or javascript, python once every now and t
 Main project right now is private, but the library I use for everything, supastuff, can be found at
 
 https://github.com/SupaMaggie70Incorporated/SupaStuff
+
+This was written a while ago. Now I'm a nomad, I switch from projects and languages as soon as I get bored of them(I have adhd)
